@@ -1,0 +1,6 @@
+<App>
+  <SRV Nombre = "ORACLE" Texto = "SQL Oracle" />
+  <SRV Nombre = "MSSQL$SQLEXPRESS_OESTE" Texto = "SQL Microsoft" />
+  <SRV Nombre = "POSTGRESQL" Texto = "SQL PostgreSQL" />
+  <SRV Nombre = "MYSQL" Texto = "SQL MySQL" />
+</App>
